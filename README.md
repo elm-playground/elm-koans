@@ -9,3 +9,5 @@
   * placeholder values are denoted as `xValueType` and will need to be replaced to make the tests pass
 
 **Note**: You may run the koans in debug mode by visiting [http://localhost:8000/src/Koans.elm?debug](http://localhost:8000/src/Koans.elm?debug) and the display *should* refresh automatically on every file save, however it seems to be finicky so YMMV
+
+![](screen/main.png)
